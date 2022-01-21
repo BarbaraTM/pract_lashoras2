@@ -7,3 +7,17 @@ h1 {
     color: #692318;
     text-align: center;
 }
+
+p.carta {
+    color: brown;
+}
+
+p.cafe {
+    color: brown;
+    text-align: center;
+}
+
+p.contacto {
+    color: brown;
+    text-align: right;
+}
