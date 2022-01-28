@@ -38,6 +38,14 @@ p.contacto {
     text-align: center;
 }
 
+ul.circle {
+    list-style-type: circle;
+}
+
+ol.romano {
+    list-style-type: upper-roman;
+}
+
 footer {
     text-align: right;
 }
